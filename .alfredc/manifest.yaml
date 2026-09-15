@@ -1,0 +1,20 @@
+schema_version: "0.1"
+project: "AlfredContext"
+created_at: "2026-09-14T00:00:00Z"
+enabled_adapters: [claude-code]
+
+# 人类可读 ID 的顺序计数器（机器幂等靠 key，见协议 §9.7）
+id_counters:
+  REQ: 5
+  COR: 2
+  DEC: 15
+  FACT: 1
+  HYP: 1
+  FAIL: 0
+  VER: 1
+  Q: 1
+  HANDOFF: 1
+
+# 提炼引擎：零模型配置，复用用户正在使用的 Coding Agent（协议 §12.4）
+extractor:
+  mode: auto

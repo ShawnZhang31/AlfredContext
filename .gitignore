@@ -1,0 +1,6 @@
+# AlfredContext 本地中间态 —— 不入库（§4.1）
+# 真相来源是 .alfredc/history/*.jsonl，这些都可重建或含敏感信息。
+
+.alfredc/queue/
+.alfredc/history/transcripts/
+.alfredc/cache.db
