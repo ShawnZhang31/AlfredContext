@@ -111,12 +111,8 @@ Planned for v1:
 
 ## Contributing
 
-There is no code to contribute to yet — which makes this the best time to argue with the design.
-
-The protocol is in [`spec/protocol.md`](./spec/protocol.md). If something in it is wrong, ambiguous, or missing, an issue is more valuable right now than a pull request.
+None for now.
 
 ## License
 
-[Apache-2.0](./LICENSE) — Copyright © 2026 ShawnZhang31.
-
-Chosen deliberately. The explicit patent grant and permissive terms make it straightforward for companies to adopt AlfredContext and to implement the protocol in their own adapters — which is the entire point of publishing a spec.
+[Apache-2.0](./LICENSE) — Copyright 2026 ShawnZhang31.

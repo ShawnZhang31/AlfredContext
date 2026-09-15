@@ -111,12 +111,8 @@ v1 计划支持：
 
 ## 参与贡献
 
-现在还没有代码可供贡献——但这也正是对设计提出异议的最佳时机。
-
-协议在 [`spec/protocol.md`](./spec/protocol.md)。如果其中有错误、歧义或缺失，**此刻提一个 issue 比提一个 PR 更有价值。**
+暂无。
 
 ## 许可证
 
-[Apache-2.0](./LICENSE) —— 版权所有 © 2026 ShawnZhang31。
-
-这是刻意的选择。明确的专利授权与宽松条款，让企业可以放心采用 AlfredContext，并用自己的 Adapter 实现该协议——而这正是公开一份规格的全部意义。
+[Apache-2.0](./LICENSE) —— Copyright 2026 ShawnZhang31。
