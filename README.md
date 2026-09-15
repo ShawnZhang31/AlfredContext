@@ -117,4 +117,6 @@ The protocol is in [`spec/protocol.md`](./spec/protocol.md). If something in it 
 
 ## License
 
-Not yet chosen. A protocol intended for third-party adapters needs a clear, permissive license; this will be settled before v1.
+[Apache-2.0](./LICENSE) — Copyright © 2026 ShawnZhang31.
+
+Chosen deliberately. The explicit patent grant and permissive terms make it straightforward for companies to adopt AlfredContext and to implement the protocol in their own adapters — which is the entire point of publishing a spec.
